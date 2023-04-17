@@ -1,6 +1,6 @@
 import Image from "next/image";
 import useBarapp from "../hooks/useBarapp";
-import Categoria from "./categoria";
+import Categoria from "./Categoria";
 
 const Sidebar = () => {
     const {categorias} = useBarapp();
