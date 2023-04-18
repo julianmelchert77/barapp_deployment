@@ -272,7 +272,7 @@ const productos = [
       },
       {
         nombre: "Pay de Queso",
-        precio: 19.9,
+        precio: 230,
         imagen: "pastel_04",
         categoriaId: 9
       },
@@ -280,7 +280,7 @@ const productos = [
         nombre: "Torta de Chocolate",
         precio: 29.9,
         imagen: "pastel_05",
-        categoriaId: 1
+        categoriaId: 9
       },
       {
         nombre: "Rebanada de Torta de Chocolate",
